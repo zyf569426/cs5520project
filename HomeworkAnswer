@@ -8,4 +8,14 @@ things learned:
 Firstly I got stuck on ADB and AVD manager problems in Android Studio for 5 hours, I tried every solution I found 
 but still not working, finally I solved the compatiblity problem by unpdating my m1 MacOS system. 
 
+Setup Android Studio enviroment and boot my first Android app.
+
+1_2
+things learned:
+change UI element attributes;
+edit layout in XML;
+make a simple functional Toast App;
+
+1_3
+
 
