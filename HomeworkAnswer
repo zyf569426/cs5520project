@@ -4,3 +4,8 @@ Q2 app_name
 Q3 AVD Manager
 Q4 Verbose Debug Info
 
+things learned:
+Firstly I got stuck on ADB and AVD manager problems in Android Studio for 5 hours, I tried every solution I found 
+but still not working, finally I solved the compatiblity problem by unpdating my m1 MacOS system. 
+
+
