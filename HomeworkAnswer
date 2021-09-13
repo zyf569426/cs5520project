@@ -17,5 +17,16 @@ edit layout in XML;
 make a simple functional Toast App;
 
 1_3
+Q1
+app:layout_constraintBottom_toTopOf="@+id/button_count"
+app:layout_constraintTop_toBottomOf="@+id/button_toast"
+Q2
+app:layout_constraintLeft_toLeftOf="parent"
+android:layout_marginBottom="8dp"
+Q3
+public void callMethod(View view)
+Q4
+1) Use findViewById to find the Count Button. Assign the result to a View variable, and then use setBackgroundColor().
+
 
 
